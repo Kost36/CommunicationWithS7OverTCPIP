@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationWithS7OverTCPIP", "CommunicationWithS7OverTCPIP\CommunicationWithS7OverTCPIP.csproj", "{D27DB0DB-8D5D-4978-BDBA-8B23DC20F8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationWithS7OverTCPIPTests2", "CommunicationWithS7OverTCPIPTests2\CommunicationWithS7OverTCPIPTests2.csproj", "{897B0C48-4E30-414A-B794-52152D687E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27DB0DB-8D5D-4978-BDBA-8B23DC20F8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27DB0DB-8D5D-4978-BDBA-8B23DC20F8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27DB0DB-8D5D-4978-BDBA-8B23DC20F8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27DB0DB-8D5D-4978-BDBA-8B23DC20F8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897B0C48-4E30-414A-B794-52152D687E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897B0C48-4E30-414A-B794-52152D687E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897B0C48-4E30-414A-B794-52152D687E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897B0C48-4E30-414A-B794-52152D687E24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51595C24-E982-4A9C-840B-0A70CDD03B60}
+	EndGlobalSection
+EndGlobal
